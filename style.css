@@ -1,0 +1,15 @@
+#logo_img{
+    width: 150px;
+    border-radius: 100px;
+}
+#camera{
+    width: 360px;
+    height: 250px;
+    border: 1px solid gray;
+}
+#textbox{
+    width: 300px;
+}
+#start{
+    width: 40%;
+}
